@@ -2,8 +2,7 @@
 
 > A multi-agent AI system that autonomously researches any topic and generates professional reports.
 
-🌐 **Live Demo**: [Try it here](https://apurv23-ai-research-agent.hf.space)
-
+🌐 **Live Demo**: https://ai-research-agent-gxzi8parytymx7pxnatmmt.streamlit.app/#global-outlook-and-challenges
 ---
 
 ## 📌 What is this?
